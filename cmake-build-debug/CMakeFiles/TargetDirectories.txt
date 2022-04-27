@@ -1,0 +1,3 @@
+C:/Users/georg/CLionProjects/BST-and-AVL-Imlementation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/georg/CLionProjects/BST-and-AVL-Imlementation/cmake-build-debug/CMakeFiles/mte140-a3.dir
+C:/Users/georg/CLionProjects/BST-and-AVL-Imlementation/cmake-build-debug/CMakeFiles/edit_cache.dir
